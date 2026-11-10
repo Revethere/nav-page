@@ -1,0 +1,1 @@
+var e=[{id:`info`,label:`Info`,title:`Info`,icon:`terminal`,enabled:!0},{id:`repositories`,label:`Repositories`,title:`Repositories`,icon:`github`,enabled:!1},{id:`resources`,label:`Resources`,title:`Resources`,icon:`layers`,enabled:!1}].filter(e=>e.enabled);export{e as t};
